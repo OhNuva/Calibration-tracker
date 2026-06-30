@@ -1,0 +1,7 @@
+equipment_id,name,location,last_calibrated,calibration_interval_days,responsible,notes
+EQ-01,pH meter,wet lab,2026-04-28,30,anuva,used for basically every leaching test
+EQ-02,flow meter,wet lab,2026-04-15,90,anuva,was acting weird in march not sure if its still accurate
+EQ-03,analytical balance,wet lab,2026-04-20,90,anuva,the one by the fume hood not the other one
+EQ-04,thermocouple probe,furnace room,2026-02-10,180,lab manager,used for calcination temp monitoring
+EQ-05,conductivity meter,wet lab,2026-05-01,60,anuva,
+EQ-06,pipette set,wet lab,2026-03-15,180,anuva,gravity check method
